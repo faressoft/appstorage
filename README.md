@@ -2,8 +2,8 @@
 
 # AppStorage
 
-[![npm](https://img.shields.io/npm/v/appstorage.svg)](https://www.npmjs.com/package/appstorage)
-[![npm](https://img.shields.io/npm/l/appstorage.svg)](https://github.com/faressoft/appstorage/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/appstoragejs.svg)](https://www.npmjs.com/package/appstoragejs)
+[![npm](https://img.shields.io/npm/l/appstoragejs.svg)](https://github.com/faressoft/appstoragejs/blob/master/LICENSE)
 
 > LocalStorage for Node.js, auto syncing for objects with JSON files using the Proxy API
 
