@@ -1,6 +1,6 @@
 {
   "name": "appstoragejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LocalStorage for Node.js, auto syncing for objects with JSON files using the Proxy API",
   "main": "lib/index.js",
   "repository": {
