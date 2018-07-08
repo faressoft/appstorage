@@ -16,7 +16,7 @@
 ## Installation
 
 ```
-npm install --save appstorage
+npm install --save appstoragejs
 ```
 
 ## Introduction
@@ -33,7 +33,7 @@ Use the ES6 [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refe
 * Nothing to worry about just deal with the object as any normal object.
 
 ```js
-var AppStorage = require('appstorage');
+var AppStorage = require('appstoragejs');
 
 // Create a new AppStorage
 var appStorage = new AppStorage('data.json');
