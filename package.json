@@ -1,0 +1,26 @@
+{
+  "name": "appstorage",
+  "version": "1.0.0",
+  "description": "LocalStorage for Node.js, auto syncing for objects with JSON files using the Proxy API",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faressoft/appstorage.git"
+  },
+  "keywords": [
+    "app",
+    "local",
+    "storage",
+    "config",
+    "sync",
+    "json",
+    "configuration",
+    "settings",
+    "proxy",
+    "trap",
+    "api",
+    "global"
+  ],
+  "author": "Mohammad Fares <faressoft.com@gmail.com>",
+  "license": "MIT"
+}
